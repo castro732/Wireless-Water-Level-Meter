@@ -1,5 +1,7 @@
 #Wireless Water Level Meter
 
+![Built modules](Built.png)
+
 ##Description
 
 System for measuring the water level in a tank using a current loop (4 mA to 20 mA) wirelessly.
